@@ -1,5 +1,5 @@
 var options = {
-    strings: ['Texto 1', 'Texto 2'],
+    strings: [data.texto_1, data.texto_2],
     typeSoeed: 80,
     backSpeed: 80,
     loop: true,
